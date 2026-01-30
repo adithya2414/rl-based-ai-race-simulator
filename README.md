@@ -7,6 +7,8 @@ This project implements a continuous-control racing environment using
 Proximal Policy Optimization (PPO) with PyTorch and Pygame.
 
 ## Features
+<img width="1384" height="772" alt="image" src="https://github.com/user-attachments/assets/689df6f1-c520-430c-bcc2-ef340c42b2e4" />
+
 - Continuous steering & throttle
 - PPO (Actor-Critic)
 - Ghost car (best lap replay)
